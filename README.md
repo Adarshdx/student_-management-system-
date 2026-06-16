@@ -51,30 +51,31 @@ Data Persistence
 - Prevent Data Loss
 
 ---
+## 🏗️ System Architecture
 
-🏗️ System Architecture
-
+```text
 +-----------------------+
-|       User Interface  |
+|    User Interface     |
 +-----------+-----------+
             |
             v
 +-----------------------+
 |   Application Logic   |
-|  (Business Layer)     |
+|    (Business Layer)   |
 +-----------+-----------+
             |
             v
 +-----------------------+
-|   Data Management     |
+|    Data Management    |
 | (Collections / Files) |
 +-----------+-----------+
             |
             v
 +-----------------------+
-|   Storage Layer       |
-|   File Handling       |
+|     Storage Layer     |
+|     File Handling     |
 +-----------------------+
+```
 
 Architecture Explanation
 
