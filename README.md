@@ -1,4 +1,4 @@
-i# student_management_system
+# student_management_system
 Student Management System is a software application designed to manage student records, attendance, grades, courses, and academic activities efficiently. It helps educational institutions streamline administrative tasks, improve communication, and maintain accurate student information in a centralized system.
 🎓 Student Management System
 
@@ -110,8 +110,10 @@ Exception Handling| Error Management
 
 📂 Project Structure
 
+## 📂 Project Structure
+
+```text
 Student-Management-System/
-│
 ├── src/
 │   ├── Main.java
 │   ├── Student.java
@@ -119,17 +121,15 @@ Student-Management-System/
 │   ├── AttendanceManager.java
 │   ├── CourseManager.java
 │   └── FileHandler.java
-│
 ├── data/
 │   └── students.txt
-│
 ├── screenshots/
 │   ├── dashboard.png
 │   ├── add_student.png
 │   ├── attendance.png
 │   └── reports.png
-│
 └── README.md
+```
 
 ---
 
