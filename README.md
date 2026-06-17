@@ -258,6 +258,6 @@ This project is licensed under the MIT License.
 
 Adarsh Chaudhary
 
-AI & Machine Learning Enthusiast | Java Developer | Problem Solver
+AI Engineering student
 
 If you found this project useful, consider giving it a ⭐ on GitHub.
